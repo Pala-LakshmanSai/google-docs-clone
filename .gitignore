@@ -1,0 +1,6 @@
+.vercel
+.node_modules
+/client/node_modules
+/client/package-lock.json
+.env
+```
